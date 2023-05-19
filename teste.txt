@@ -1,0 +1,18 @@
+Erick Sloninski Lopes,
+19 anos,
+Cursando ciências da computação, 
+Apaixonado pela tecnologia!
+
+No momento, aprofundando conhecimentos na linguagem
+de programação JAVA e suas tecnologias, como:
+JPA Hibernate,
+Spring Framework,
+Banco de dados MySQL,
+desenvolvimento de API's REST com
+cloud AWS,
+Docker,
+MongoDB,
+Maven
+
+!!!!
+
